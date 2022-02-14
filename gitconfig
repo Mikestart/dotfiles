@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gh api mikatol06@gmail.com
+	name = Mickael Toledano gh api mikatol06@gmail.com
